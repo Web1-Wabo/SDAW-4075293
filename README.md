@@ -52,5 +52,16 @@ npm install
 -   **npm install express** → Instala el framework Express.
 -   **npm start** → Ejecuta el servidor Node definido en package.json.
 
+
+--------------------------------------------------------------------------
+## Información técnica añadida desde rama 1
+En esta sección se describen los principales comandos de Git utilizados durante la práctica:
+
+- git init: Inicializa un repositorio vacío.
+- git add: Añade archivos al staging area.
+- git commit: Registra los cambios en el historial del repositorio.
+- git branch: Crea o lista ramas dentro del repositorio.
+- git merge: Fusiona ramas entre sí.
+- git push: Envía los cambios locales al repositorio remoto.
 ## Información técnica añadida desde rama 2
 7ab702c (HEAD -> master) Primer commit del proyecto
