@@ -51,3 +51,6 @@ npm install
 -   **npm init** → Crea un package.json (ya incluido).
 -   **npm install express** → Instala el framework Express.
 -   **npm start** → Ejecuta el servidor Node definido en package.json.
+
+## Información técnica añadida desde rama 2
+7ab702c (HEAD -> master) Primer commit del proyecto
