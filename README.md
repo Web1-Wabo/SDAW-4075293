@@ -65,3 +65,9 @@ En esta sección se describen los principales comandos de Git utilizados durante
 - git push: Envía los cambios locales al repositorio remoto.
 ## Información técnica añadida desde rama 2
 7ab702c (HEAD -> master) Primer commit del proyecto
+
+## Información técnica añadida desde rama 4
+Para conectar el repositorio local con GitLab se añadió un remoto adicional 
+con el comando `git remote add`. Después se verificó con `git remote -v` que 
+GitHub y GitLab estaban correctamente configurados. Finalmente, se subieron 
+los cambios al nuevo remoto con `git push gitlab main`.
